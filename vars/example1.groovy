@@ -6,6 +6,6 @@ def call(String name = "Alice") {
     }
 }
 
-def example1(){
-    println("hey you are in example")
-}
+// def example1(){
+//     println("hey you are in example")
+// }
