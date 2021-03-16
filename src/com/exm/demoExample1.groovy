@@ -22,7 +22,7 @@ public class demoExample1 {
  def name="Aiman"
   def login() {
    
-    if (name=="Aiman"){
+    if (name=="Aima"){
       return "login successfull";
     }
     else {
