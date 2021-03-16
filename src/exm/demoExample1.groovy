@@ -1,4 +1,4 @@
-package AllExample
+package exm
 
 public class demoExample1{
     def name="Aiman"
