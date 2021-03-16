@@ -4,7 +4,7 @@ public class demoExample1{
     def name="Aiman"
     def login(){
         if(name=="Aiman"){
-            return "hey hii welcome Aiman"
+            return true
         }else{
             return "Login failed"
         }
