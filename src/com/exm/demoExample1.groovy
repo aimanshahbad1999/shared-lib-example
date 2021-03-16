@@ -13,6 +13,9 @@
 
 
 
+
+
+
 package com.exm
 
 public class demoExample1 {
@@ -20,7 +23,7 @@ public class demoExample1 {
   def login() {
     def name="Aiman"
     if (name=="Aiman"){
-      return true;
+      return "login successfull";
     }
     else {
       println "login failed"
