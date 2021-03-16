@@ -1,8 +1,8 @@
 def call(String name = "Alice") {
-    script {
-        sh """
-            echo Hi ${name}
-        """
+    node{
+        stage("example1"){
+            println("hey hii example1")
+        }
     }
 }
 
