@@ -26,10 +26,10 @@ public class demoExample1 {
       return "login successfull";
     }
     else {
-      println "login failed"
+      return "login failed"
     }
     
-    return false;
+    // return false;
   }
 
 }
