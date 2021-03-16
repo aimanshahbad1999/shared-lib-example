@@ -19,9 +19,9 @@
 package com.exm
 
 public class demoExample1 {
-
+ def name="Aiman"
   def login() {
-    def name="Aiman"
+   
     if (name=="Aiman"){
       return "login successfull";
     }
